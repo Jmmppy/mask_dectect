@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LoginMain</class>
+ <widget class="QMainWindow" name="LoginMain">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1281</width>
+    <height>684</height>
+   </rect>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1281</width>
+    <height>684</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>LoginMain</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QLineEdit{
+border:none;
+}
+QPushButton{
+background-color: #ffffff;
+border-radius: 10px;
+border: 2px groove gray;
+border-style: outset;
+}</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1631</width>
+      <height>831</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-image: url(:/res/login_bg/login_bg2.JPG);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn_login">
+    <property name="geometry">
+     <rect>
+      <x>470</x>
+      <y>410</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>登录</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn_quit">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>410</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>退出</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="username">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>289</y>
+      <width>271</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="password">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>348</y>
+      <width>271</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn_href">
+    <property name="geometry">
+     <rect>
+      <x>537</x>
+      <y>460</y>
+      <width>181</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>没有账号？点击注册</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="res/img.qrc"/>
+ </resources>
+ <connections/>
+</ui>
