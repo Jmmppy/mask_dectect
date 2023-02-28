@@ -1,0 +1,51 @@
+<RCC>
+  <qresource prefix="res">
+    <file>箭头_向右两次_o (1).png</file>
+    <file>箭头_向右两次_o.png</file>
+    <file>箭头_向左两次_o (1).png</file>
+    <file>箭头_向左两次_o.png</file>
+    <file>双线左箭头 (1).png</file>
+    <file>双线左箭头.png</file>
+    <file>双右箭头-01 (1).png</file>
+    <file>双右箭头-01.png</file>
+    <file>24gf-folderOpen.png</file>
+    <file>文件夹 (1).png</file>
+    <file>文件夹.png</file>
+    <file>report (1).png</file>
+    <file>编辑文件 (1).png</file>
+    <file>report.png</file>
+    <file>编辑文件.png</file>
+    <file>设置 (2).png</file>
+    <file>设置 (3).png</file>
+    <file>设置 (1).png</file>
+    <file>设置.png</file>
+    <file>register.JPG</file>
+    <file>login_bg/vid_cam.JPG</file>
+    <file>login_bg/24gf-calendar.png</file>
+    <file>login_bg/w_摄像头.png</file>
+    <file>login_bg/日历.png</file>
+    <file>login_bg/时间.png</file>
+    <file>login_bg/视频2.png</file>
+    <file>login_bg/图片.png</file>
+    <file>w_摄像头.png</file>
+    <file>视频2.png</file>
+    <file>图片.png</file>
+    <file>login_bg/part.JPG</file>
+    <file>login_bg/cam.JPG</file>
+    <file>login_bg/detect2.JPG</file>
+    <file>Maximize-3.png</file>
+    <file>关闭 (1).png</file>
+    <file>最小化.png</file>
+    <file>login_bg/detect.JPG</file>
+    <file>login_bg/login_bg2.JPG</file>
+    <file>login_bg/login_bg.JPG</file>
+    <file>login_bg/sys.JPG</file>
+    <file>login_bg/bg_bg.png</file>
+    <file>login_bg/bg_first.png</file>
+    <file>bg_duola.jpg</file>
+    <file>close-button2.png</file>
+    <file>maximize-button1.png</file>
+    <file>maximize-button2.png</file>
+    <file>minimize-button1.png</file>
+  </qresource>
+</RCC>
